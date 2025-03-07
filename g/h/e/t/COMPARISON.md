@@ -44,7 +44,6 @@ Otto is another event bus library for Android; actually it's a fork of Guava's E
         <th>Event delivery in main thread</th>
         <td>Yes</td>
         <td>No</td>
-    </tr>
     <tr>
         <th>Event delivery in background thread</th>
         <td>Yes</td>
