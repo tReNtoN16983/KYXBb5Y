@@ -6,7 +6,6 @@ htmlcov/
 .eggs/
 .cache/
 .vscode/
-build/
 .travis.yml
 ci.bash
 *.md
