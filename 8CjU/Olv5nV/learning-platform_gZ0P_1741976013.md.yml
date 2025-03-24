@@ -1,3 +1,0 @@
-path_classifiers:
-    # Exclude from analysis any code that we pull in as submodules.
-    - "src/Native/MatrixFactorizationNative/libmf"
