@@ -5,7 +5,6 @@ Thanks for your interest in contributing to our project. This page will give you
 
 ## Table of contents
 
-1. [Add a project](#add-a-project)
 2. [Update a project](#update-a-project)
 3. [Improve metadata collection](#improve-metadata-collection)
 4. [Improve markdown generation](#improve-markdown-generation)
