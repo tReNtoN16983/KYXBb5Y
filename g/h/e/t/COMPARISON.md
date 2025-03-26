@@ -26,7 +26,6 @@ Otto is another event bus library for Android; actually it's a fork of Guava's E
         <td>No</td>
     </tr>
     <tr>
-        <th>Cache most recent events</th>
         <td>Yes, sticky events</td>
         <td>No</td>
     </tr>
