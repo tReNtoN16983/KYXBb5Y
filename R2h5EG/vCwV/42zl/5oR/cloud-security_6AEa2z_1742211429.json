@@ -148,7 +148,6 @@
 			"which matches this (regex) pattern. Default is `None`",
 			"(disabled)."
 		],
-		"literal_comment_pattern": null,
 		"_help_fence_pattern": [
 			"Regular expression to match preformat fences in comments",
 			"default= ``r'^\\s*([`~]{3}[`~]*)(.*)$'``"
